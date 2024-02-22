@@ -1,0 +1,5 @@
+git init
+git add gamesms1.rb
+git commit -m "Add Homebrew formula for gamesms1"
+git remote add origin https://github.com/your-username/homebrew-gamesms1.git
+git push -u origin master
